@@ -23,6 +23,7 @@
         @include adaptiv-font(21, 18);
         padding: 0.3em 0.8em;
         text-decoration: none;
+        color: $accent-dark;
         border: 1px solid $accent;
         white-space: nowrap;
         transition: all .2s ease-in;
